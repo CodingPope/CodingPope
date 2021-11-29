@@ -3,7 +3,7 @@
 Im Joe, from Denver Colorado, I am  a Software Developer and Content Creator. I currently use the a Mern stack and enjoy working wireframing ui/ux. I am currently increasing my knowledge with learning Blockchain, and gaining my AWS Dev certificate.
 Check out my portfolio at https://www.joe-pope.com
 
-[![CodingPope's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/CodingPope/github-readme-stats)
+[![CodingPope's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingPope)](https://github.com/CodingPope/github-readme-stats)
 
 
 
