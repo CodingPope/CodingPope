@@ -1,4 +1,4 @@
-![Content Creation and Development](https://github.com/CodingPope/CodingPope/blob/main/Screen%20Shot%202021-11-29%20at%2012.53.08%20PM.png)
+![Content Creation and Development](https://github.com/CodingPope/CodingPope/blob/main/Screen%20Shot%202021-11-29%20at%2012.15.58%20PM.png)
 
 ### Hi there 👋
 Im Joe, from Denver Colorado, I am  a Software Developer and Content Creator. I currently use the a Mern stack and enjoy working wireframing ui/ux. I am currently increasing my knowledge with learning Blockchain, and gaining my AWS Dev certificate.
@@ -16,7 +16,7 @@ Check out my portfolio at https://www.joe-pope.com
  🌱 I’m currently learning Blockchain, and for my AWS Developer Cert (with a little bit of swift) 
  
  😄 Pronouns: He/His/Him 
-
+ 
 ⚡ Fun fact: I am addicted to oreos <img src="https://github.com/CodingPope/CodingPope/blob/main/oreo-cookies.gif" height="40" />
 
 
