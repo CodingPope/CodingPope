@@ -7,7 +7,7 @@ Check out my portfolio at https://www.joe-pope.com
 ## Skills and Experience
 * ⚛️ React
 * ⚙️ MySQL, MongoDB
-* 💻 HTML/CSS/SCSS/JS
+* 💻 HTML/CSS/SaSS/JS/TS
 
 
 
