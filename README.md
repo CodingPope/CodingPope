@@ -20,6 +20,9 @@ Check out my portfolio at https://www.joe-pope.com
 ⚡ Fun fact: I am addicted to oreos <img src="https://github.com/CodingPope/CodingPope/blob/main/oreo-cookies.gif" height="40" />
 
 
-[<img src='https://github.com/CodingPope/CodingPope/blob/main/PngItem_1280311.png' alt='github' height='40'>](https://github.com/CodingPope)  [<img src='https://github.com/CodingPope/CodingPope/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jopope//)  [<img src='https://github.com/CodingPope/CodingPope/blob/main/PngItem_5353660.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCHYe-5htjVtblnSDA4vKEvA)  [<img src='https://github.com/CodingPope/CodingPope/blob/main/toppng.com-white-cloud-symbol-png-828x531.png' alt='website' height='40'>](https://www.joe-pope.com)  
+[<img src='https://github.com/CodingPope/CodingPope/blob/main/PngItem_1280311.png' alt='github' height='40'>](https://github.com/CodingPope)  [<img src='https://github.com/CodingPope/CodingPope/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jopope//)  [<img src='https://github.com/CodingPope/CodingPope/blob/main/PngItem_5353660.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCHYe-5htjVtblnSDA4vKEvA)  [<img src='https://github.com/CodingPope/CodingPope/blob/main/toppng.com-white-cloud-symbol-png-828x531.png' alt='website' height='40'>](https://www.joe-pope.com)
+
+
+![img](https://media0.giphy.com/media/zIwJ0j0tclmQHLcTvs/giphy.gif?cid=790b7611926ae104a0cfe82b933df4968e47b04c897bf557&rid=giphy.gif&ct=g)
 
 ![img](https://media3.giphy.com/media/tj0FtWXFFYb7VsVSfY/giphy.gif?cid=790b76114f22060ecefcb0a189e88b0a1179cc47e819dc07&rid=giphy.gif&ct=g)
